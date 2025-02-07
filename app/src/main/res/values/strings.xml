@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="search_title">Search</string>
+    <string name="home_title">Home</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="recipe_details_title">$</string>
+</resources>
